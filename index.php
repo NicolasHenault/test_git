@@ -9,5 +9,6 @@
 	<p>Ceci est la ligne 3</p>
 	<p>Ajout de ligne pour test</p>
 	<p>changement sous GitHub</p>
+	<p>Nicolas est une machine à coder</p>
 </body>
 </html>
