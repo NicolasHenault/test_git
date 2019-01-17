@@ -10,5 +10,6 @@
 	<p>Ajout de ligne pour test</p>
 	<p>changement sous GitHub</p>
 	<p>Nicolas est une machine à coder</p>
+	<p>OK, c'est génial, la dream team en marche!!!</p>
 </body>
 </html>
